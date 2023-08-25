@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif;
+}
+.notes-card{
+    background-color: grey;
+    padding: 10px;
+    height: 100px;
+    margin: 10px;
+    color: aliceblue;
+}
+.inputBoxContainer{
+    display:flex ;
+    justify-content: center;
+}
+textarea{
+    height: 70px;
+    width: 300px;
+    margin-right:10px ;
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+}
+#output-container{
+    width: 200px;
+
+    justify-content: center;
+    align-items: center;
+}
